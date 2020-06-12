@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-/src/MY_PASS
+.env
 # production
 /build
 
